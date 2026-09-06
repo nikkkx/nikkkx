@@ -27,6 +27,23 @@ A personal AI system designed around **memory, retrieval, tools and local intell
 ---
 
 ## 🧪 What I'm Exploring
+---
+
+## ⚙️ Technical Focus
+
+**Languages**
+`Python` · `C/C++` · `JavaScript`
+
+**AI / ML**
+`LLMs` · `RAG` · `Embeddings` · `Agents`
+
+**Systems**
+`Linux` · `Git` · `Automation`
+
+**Tools**
+`Ollama` · `GitHub` · `VS Code`
+
+---
 
 ```text
 AI
