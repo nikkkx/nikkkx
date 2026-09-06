@@ -23,7 +23,6 @@ A personal AI system designed around **memory, retrieval, tools and local intell
 
 **Python · Ollama · LLMs · Embeddings · RAG · Linux**
 
-→ [Explore Karyvex](https://github.com/nikkkx/Karyvex)
 
 ---
 
